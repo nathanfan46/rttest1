@@ -1,0 +1,8 @@
+{
+  "name": "rttest1",
+  "app_id": "b5ca193c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
